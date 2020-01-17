@@ -1,0 +1,6 @@
+# Project exclude paths
+.class
+*.jar
+target
+.idea
+*.iml
